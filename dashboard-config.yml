@@ -32,6 +32,8 @@ ontologies:
   custom:
     - id: idpo
       mirror_from: "https://github.com/BioComputingUP/idpo/releases/download/v2025-09-10/idpo.owl"
+    - id: tmp
+      mirror_from: "https://raw.githubusercontent.com/monarch-ebi-dev/robot_tests/master/custom-dashboard.owl"
 prefer_base: True
 profile:
   baseprofile: "https://raw.githubusercontent.com/ontodev/robot/master/robot-core/src/main/resources/report_profile.txt"
