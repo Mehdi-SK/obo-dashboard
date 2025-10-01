@@ -31,6 +31,7 @@ obo_score_weights:
 ontologies:
   custom:
     - id: idpo
+      mirror_from: "https://github.com/BioComputingUP/idpo/releases/download/v2025-09-10/idpo.owl"
 prefer_base: True
 profile:
   baseprofile: "https://raw.githubusercontent.com/ontodev/robot/master/robot-core/src/main/resources/report_profile.txt"
