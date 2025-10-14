@@ -3,7 +3,7 @@ base_prefixes:
 - IDPO
 - IDPOALT
 changed: true
-date: 2025-10-14 08:50:08.523228
+date: 2025-10-14 08:52:41.336346
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 981
