@@ -29,7 +29,7 @@ ontologies:
   - IDPO
   - IDPOALT
   changed: true
-  date: 2025-10-14 08:50:08.523228
+  date: 2025-10-14 08:52:41.336346
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 981
@@ -150,7 +150,7 @@ ontologies:
   - TMP
   - TMPALT
   changed: true
-  date: 2025-10-14 08:50:11.563530
+  date: 2025-10-14 08:52:44.687893
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 2
