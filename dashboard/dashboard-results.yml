@@ -29,43 +29,27 @@ ontologies:
   - IDPO
   - IDPOALT
   changed: true
-  date: 2025-10-14 08:52:41.336346
+  date: 2026-09-01 10:30:00.120647
   metrics:
     'Axioms: Breakdown of axiom types':
-      AnnotationAssertion: 981
-      ClassAssertion: 19
-      Declaration: 284
-      DifferentIndividuals: 2
-      DisjointClasses: 7
-      EquivalentClasses: 3
-      FunctionalObjectProperty: 2
-      InverseFunctionalObjectProperty: 1
-      InverseObjectProperties: 23
-      ObjectPropertyAssertion: 35
-      ObjectPropertyDomain: 27
-      ObjectPropertyRange: 27
-      Rule: 19
-      SubClassOf: 139
-      SubObjectPropertyOf: 127
-      SubPropertyChainOf: 52
-      SymmetricObjectProperty: 3
-      TransitiveObjectProperty: 14
-    'Axioms: Number of axioms': 1765
+      AnnotationAssertion: 410
+      Declaration: 75
+      DisjointClasses: 1
+      ObjectPropertyDomain: 2
+      ObjectPropertyRange: 2
+      SubClassOf: 111
+    'Axioms: Number of axioms': 601
     'Entities: % of entities reused': 100.0
-    'Entities: Number of annotation properties': 23
-    'Entities: Number of classes': 96
+    'Entities: Number of annotation properties': 22
+    'Entities: Number of classes': 76
     'Entities: Number of data properties': 0
-    'Entities: Number of individuals': 58
-    'Entities: Number of object properties': 110
+    'Entities: Number of individuals': 0
+    'Entities: Number of object properties': 4
     'Entities: Number of unsatisfiable classes': 0
     'Info: Breakdown of OWL class expressions used':
-      Class: 464
-      ObjectAllValuesFrom: 6
-      ObjectHasSelf: 1
-      ObjectOneOf: 3
-      ObjectSomeValuesFrom: 44
-      ObjectUnionOf: 1
-    'Info: Does the ontology fall under OWL 2 DL?': true
+      Class: 301
+      ObjectSomeValuesFrom: 38
+    'Info: Does the ontology fall under OWL 2 DL?': false
     'Info: Experimental OBO score':
       _dashboard: 0.749
       _formula: (1*impact+1*dashboard)/2
@@ -78,21 +62,15 @@ ontologies:
     'Info: Logical consistency': true
     'Info: Syntax': RDF/XML Syntax
     'Info: Usage of namespaces in axioms':
-      BFO: 196
-      ENVO: 107
-      GO: 9
-      IAO: 457
-      OMO: 6
-      PATO: 3
-      RO: 632
-      dc: 29
-      dc11: 12
-      obo: 337
-      oboInOwl: 379
-      owl: 2
-      prefix_unknown: 2
-      rdf: 54
-      rdfs: 294
+      BFO: 3
+      IAO: 112
+      RO: 7
+      dc: 18
+      dc11: 11
+      obo: 335
+      oboInOwl: 245
+      rdf: 40
+      rdfs: 76
     'Info: Which ontologies use it?': []
   mirror_from: https://github.com/BioComputingUP/idpo/releases/download/v2025-10-01/idpo.owl
   namespace: idpo
@@ -150,7 +128,7 @@ ontologies:
   - TMP
   - TMPALT
   changed: true
-  date: 2025-10-14 08:52:44.687893
+  date: 2026-09-01 10:30:03.745599
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 2
